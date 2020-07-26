@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0.3
+Name=CounterApp
+Comment=This Flutter Demo app
+Icon=icon.png
+Terminal=false
+Type=Application
+Categories=Utility;Application;

@@ -1,0 +1,20 @@
+name: counter
+version: 1.0.3
+summary: Flokk Contacts
+description: A fresh and modern Google Contacts manager that integrates with GitHub and Twitter.
+confinement: strict
+base: core18
+grade: stable
+
+apps:
+   counter:
+     command: counter
+     extensions: [flutter-master]
+     plugs:
+       - network
+
+parts:
+  counter:
+    source: .
+    plugin: flutter
+    flutter-target: lib/main.dart # The main entry-point file of the application
