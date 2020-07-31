@@ -1,8 +1,9 @@
 [Desktop Entry]
-Version=1.0.3
+Version=1.0.8
 Name=CounterApp
 Comment=This Flutter Demo app
-Icon=icon.png
+Exec=counter
+Icon=${SNAP}/meta/gui/icon.png
 Terminal=false
 Type=Application
 Categories=Utility;Application;

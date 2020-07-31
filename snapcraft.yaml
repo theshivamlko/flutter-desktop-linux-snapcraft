@@ -1,10 +1,12 @@
 name: counter
-version: 1.0.3
-summary: Flokk Contacts
-description: A fresh and modern Google Contacts manager that integrates with GitHub and Twitter.
+version: 1.0.10
+summary: Flutter Demo Counter Application
+description: A demo of Counter Application using Flutter
 confinement: strict
 base: core18
 grade: stable
+icon: snap/gui/icon.png
+
 
 apps:
    counter:
@@ -12,6 +14,7 @@ apps:
      extensions: [flutter-master]
      plugs:
        - network
+       - desktop
 
 parts:
   counter:
