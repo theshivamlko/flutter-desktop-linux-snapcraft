@@ -1,4 +1,4 @@
-![Image](misc/banner.png)
+![Image](https://i.imgur.com/wqqXoeI.png)
 
 # Counter
 
@@ -19,7 +19,7 @@ Counter is a Flutter Desktop app for LINUX OS, a demo app published on Snapcarft
   <img src="https://i.imgur.com/Yt8vURZ.jpg" height="400px"  /> 
   
 ## Video
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3EHNNi9KWoU/0.jpg)](https://www.youtube.com/watch?v=g-hPh6FPfgo)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3EHNNi9KWoU/0.jpg)](https://www.youtube.com/watch?v=3EHNNi9KWoU)
 
 ## Getting Started
 
