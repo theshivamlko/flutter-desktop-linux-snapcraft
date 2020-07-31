@@ -1,32 +1,25 @@
 ![Image](misc/banner.png)
 
-# NavokiNotes
+# Counter
 
-Navoki Notes, a note app app, will sync data to cloud and on all devices. We have application for **Android, iOS, Web App, PWA, Windows, macOS, Linux** , so you can access data anywhere on any device. Its FREE to use.
-The is a **single code-base cross-platform app made on Flutter Framework with Firebase**.
+Counter is a Flutter Desktop app for LINUX OS, a demo app published on Snapcarft Store
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/Apache-2.0)  [![navoki-notes](https://snapcraft.io//navoki-notes/badge.svg)](https://snapcraft.io/navoki-notes)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/Apache-2.0)  [![navoki-notes](https://snapcraft.io//counter/badge.svg)](https://snapcraft.io/counter)
 
-[![Image](misc/googleplay.png)](https://play.google.com/store/apps/details?id=com.navoki.keepapp)  [![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/navoki-notes)
+ [![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/counter)
 
-![Image](misc/youtube.png) [Youtube](https://www.youtube.com/channel/UCP2-MYtIbBnlEcfTvJKo5Og?sub_confirmation=1)
+![Image](https://i.imgur.com/iSIKA6o.png) [Youtube](https://www.youtube.com/channel/UCP2-MYtIbBnlEcfTvJKo5Og?sub_confirmation=1)
 
-![Image](misc/logo_25.png) [Navoki.com](https://navoki.com/blog/)
+![Image](https://i.imgur.com/1rDwxe8.png) [Navoki.com](https://navoki.com/blog/)
 
 
 ## Screenshots
 
-  <img src="https://i.imgur.com/PSNQnmR.jpg" height="300px"  /> <img src="https://i.imgur.com/1pRlTex.jpg" height="300px"  /> <img src="https://i.imgur.com/EHFHrOV.jpg" height="300px"  /> <img src="https://i.imgur.com/lOJUfc6.jpg" height="300px"  /> <img src="https://i.imgur.com/QwN21XA.jpg" height="300px"  /> <img src="https://i.imgur.com/xUVmaNa.jpg" height="300px"  />
-
+  <img src="https://i.imgur.com/FxVZh7B.jpg" height="400px"  /> 
+  <img src="https://i.imgur.com/Yt8vURZ.jpg" height="400px"  /> 
+  
 ## Video
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/g-hPh6FPfgo/0.jpg)](https://www.youtube.com/watch?v=g-hPh6FPfgo)
-
-## Downloads
-Ready to use app [Android App](https://play.google.com/store/apps/details?id=com.navoki.keepapp)
-
-[Web App](https://navoki.com/samples/navoki-notes/#/)
-
-[iOS, Windows, MacOS,Linux](https://github.com/theshivamlko/navoki_notes/releases)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3EHNNi9KWoU/0.jpg)](https://www.youtube.com/watch?v=g-hPh6FPfgo)
 
 ## Getting Started
 
@@ -43,14 +36,9 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Installation and Config
 - Install [Flutter SDK](https://flutter.dev/docs/get-started/install) from official site.
-- Setup Environment for [Android](https://flutter.dev/docs/get-started/flutter-for/android-devs) and [iOS](https://flutter.dev/docs/get-started/flutter-for/ios-devs)
-- Setup Environment for [Web](https://www.youtube.com/watch?v=N8YYVV1aZc8)
 - Setup Environment for [Desktop](https://www.youtube.com/watch?v=ixj0MMusDM8)
-- Create a [Firebase Project](https://firebase.google.com/) 
-- Enable [Firebase Security rules](https://firebase.google.com/docs/firestore/security/get-started) on Firebase Console. [Read more](https://medium.com/@khreniak/cloud-firestore-security-rules-basics-fac6b6bea18e).
 - Check if platform is shows for project by running ```flutter devices```
-- Replace `API_KEY` value with your project key, `<Project>` _**-> Project Settings -> General ->**_ `Web API key
-` 
+
 ## Build Project
 - To run and build project run command `flutter build <device-name>`
 - To get devices list, run `flutter devices`
@@ -62,11 +50,9 @@ For Linux app you need to build project and run using ```flutter run -d linux```
 
 ## Learning
 Few things I have used that you can work to understand flutter development.
-- Simple app state management
-- Using RestAPI
-- Firebase Auth and Cloud Firestore using Rest API
-- Staggered View
-- Local Storage
+- Create Flutter Desktop project
+- Setting Flutter Desktop environment for Flutter SDK
+- Publish Flutter Desktop on [Snapcraft Store](https://snapcraft.io/docs)
 
 You can build your own project on this just by changing dart code in `lib` folder.
 
@@ -128,10 +114,26 @@ Comment on youtube channel for more tutorials
 Mobile Solution Architect, #Android and #Flutter Developer, #Dart, Maybe #Go, #Founder of Navoki.com, #Google Scholar #Udacity Android #Nanodegree, 
  Entrepreneur
  
- [![Image](misc/youtube2.png)](https://www.youtube.com/channel/UCP2-MYtIbBnlEcfTvJKo5Og?sub_confirmation=1)  &nbsp; [![Image](misc/twitter.png)](https://twitter.com/theshivamlko) &nbsp; [![Image](misc/linkedin.png)](https://www.linkedin.com/in/theshivamlko/) &nbsp; [![Image](misc/navoki.png)](https://navoki.com/) &nbsp; [![Image](misc/facebook.png)](https://www.facebook.com/shivamlove11) &nbsp; [![Image](misc/instagram.png)](http://instagram.com/theshivamlko)  
- 
+<a href="https://www.youtube.com/channel/UCP2-MYtIbBnlEcfTvJKo5Og?sub_confirmation=1">
+<img height="40" src="https://i.imgur.com/iSIKA6o.png">
+</a>
+<a href="https://twitter.com/theshivamlko">
+<img height="50" src="https://i.imgur.com/Z9xbaFX.png">
+</a>
+<a href="https://www.linkedin.com/in/theshivamlko/">
+<img height="50" src="https://i.imgur.com/Xl6rwnA.png">
+</a>
+<a href="https://navoki.com">
+<img height="50" src="https://i.imgur.com/p0KyUvS.png">
+</a>
+<a href="https://www.facebook.com/theshivamlko">
+<img height="50" src="https://i.imgur.com/SwesUic.png">
+</a>
+<a href="http://instagram.com/theshivamlko">
+<img height="50" src="https://i.imgur.com/1zCBIbi.png">
+</a> 
 
-## License and Trademarks
+## License
 ```
 Copyright 2020 Shivam Srivastava
 
@@ -147,7 +149,4 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
-
-### Navoki and Navoki logo are registered trademark of [navoki.com](https://navoki.com/). You are free to use the source code above.
-
 
