@@ -2,7 +2,7 @@
 
 # Counter
 
-Counter is a Flutter Desktop app for LINUX OS, a demo app published on Snapcarft Store
+Counter is a Flutter Desktop app for LINUX OS, a demo app published on Snapcarft Store. Install app using `snap install counter`
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/Apache-2.0)  [![navoki-notes](https://snapcraft.io//counter/badge.svg)](https://snapcraft.io/counter)
 
